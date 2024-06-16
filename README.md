@@ -44,10 +44,8 @@
 This project is licensed under the GPU License.
 
 ### Acknowledgments
-The dataset used in this project is sourced from: https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page -> 2023 -> May -> Green Taxi Trip Records.<br>
+The dataset used in this project is sourced from: https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page -> 2023 -> December -> Green Taxi Trip Records.<br>
 The Regression algorithm is implemented using the scikit-learn library.
 
-### Contact
-If you have any questions or suggestions regarding this project, please feel free to contact me at eadityar@gmail.com
 
 ### Conclusion:
